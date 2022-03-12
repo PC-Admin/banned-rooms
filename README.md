@@ -30,7 +30,7 @@ Example:
 20
 Delete multiple rooms selected
 
-Please enter the path of the file containing a newline seperated list of room ids: ./loli_rooms.txt  
+Please enter the path of the file containing a newline seperated list of room ids: ./banned-rooms.txt  
 
 Please enter the local username that will create a 'muted violation room' for your users (Example: michael): mod_team     
 
