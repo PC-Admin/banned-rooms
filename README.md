@@ -1,4 +1,4 @@
-# banned-rooms-list
+# banned-rooms
 
 An encrypted list of banned Matrix rooms.
 
