@@ -4,7 +4,7 @@ An encrypted list of banned Matrix rooms.
 
 # Decryption
 
-This list needs to be decrypted, contact @michael:perthchat.org for the password if you're a public server owner who would like to use this list.
+This list needs to be decrypted, contact [@michael:perthchat.org](https://matrix.to/#/@michael:perthchat.org) for the password if you're a public server owner who would like to use this list.
 
 `$ openssl enc -aes-256-cbc -d -pbkdf2 -in banned-rooms.txt.enc -out banned-rooms.txt`
 
